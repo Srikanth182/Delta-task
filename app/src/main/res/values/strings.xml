@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Factor</string>
+    <string name="button">Button</string>
+    <string name="enter">enter</string>
+    <string name="option1">option1</string>
+    <string name="option2">option2</string>
+    <string name="option3">option3</string>
+    <string name="please_enter_your_number">Please enter your number</string>
+    <string name="enter_next_number">Enter next number</string>
+</resources>
